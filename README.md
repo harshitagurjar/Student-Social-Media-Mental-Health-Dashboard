@@ -1,8 +1,8 @@
 # Student-Social-Media-Mental-Health-Dashboard
-An interactive Power BI dashboard analysing the impact of social media usage on student' mental health using data visualization.
+An interactive Power BI dashboard analyzing the impact of social media usage on students' mental health using data visualization.
 
 ## Project Overview
-This Power BI dashboard analyzes students' social media usage and its relationship with mental health, sleep duration, physical activity, and stress levels. The dashboard provides interactive insights to better understand student lifestyle patterns and support data - drive insights.
+This Power BI dashboard analyzes students' social media usage and its relationship with mental health, sleep duration, physical activity, and stress levels. The dashboard provides interactive insights to better understand student lifestyle patterns and support data-drive insights.
 ## Dataset
 - Student Social Media & Mental Health Dataset
 - Cleaned and transformed using Power Query 
